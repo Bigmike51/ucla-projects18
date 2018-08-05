@@ -1,1 +1,1 @@
-# ucla-projects18
+# ucla-projects18 for Web Development course
